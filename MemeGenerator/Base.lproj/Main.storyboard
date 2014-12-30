@@ -185,9 +185,9 @@
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ckN-Ei-q1t">
                                 <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                                <mutableString key="text">A meme is "an idea, behavior, or style that spreads from person to person within a culture". An Internet meme may take the form of an image, hyperlink, video, picture, website, or hashtag. It may be just a word or phrase, including an intentional misspelling. These small movements tend to spread from person to person via social networks, blogs, direct email, or news sources.
+                                <string key="text">A meme is "an idea, behavior, or style that spreads from person to person within a culture". An Internet meme may take the form of an image, hyperlink, video, picture, website, or hashtag. It may be just a word or phrase, including an intentional misspelling. These small movements tend to spread from person to person via social networks, blogs, direct email, or news sources.
  
-This Meme Creator application allows you to use any picture from your camera roll to create a meme.  Missing features that I am going to add is the ability to specify text colors and the ability to share from within the application.</mutableString>
+This Meme Creator application allows you to use any picture from your camera roll to create a meme.  Missing features that I am going to add is the ability to specify text colors and the ability to share from within the application.</string>
                                 <fontDescription key="fontDescription" name="Avenir-Roman" family="Avenir" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>

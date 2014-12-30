@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F9FC19E6-B6D0-4E5A-95DE-D5397762F5D4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MemeGenerator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D169036A956EDF97CF40D41BBA82EBD0935BF723</key>
+		<string>https://github.com/vscarpenter/MemeGenerator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MemeGenerator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D169036A956EDF97CF40D41BBA82EBD0935BF723</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vscarpenter/MemeGenerator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D169036A956EDF97CF40D41BBA82EBD0935BF723</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D169036A956EDF97CF40D41BBA82EBD0935BF723</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MemeGenerator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
